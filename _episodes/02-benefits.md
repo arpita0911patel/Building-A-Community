@@ -8,10 +8,10 @@ objectives:
 - "Understand the benefits of building a collaborative community"
 keypoints:
 - Most real\-world projects involve teams
-    * Too big to do alone
+    - Too big to do alone
 - Produce working code more quickly
 - Better designs
-    * Consider more options
+    - Consider more options
 - Can be more enjoyable
 ---
 FIXME
