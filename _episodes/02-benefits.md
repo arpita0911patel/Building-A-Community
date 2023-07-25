@@ -1,5 +1,5 @@
 ---
-title: "Why work collaboratively?"
+title: "Benefits of working collaboratively"
 teaching: 0
 exercises: 0
 questions:
