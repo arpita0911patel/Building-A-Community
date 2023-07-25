@@ -10,7 +10,7 @@ objectives:
 keypoints:
 - "Inclusivity"
 - "Codes of conduct and their enforcement"
-- "Attitude: “Our” vs\. “My” software"
+- "Attitude: “Our” vs. “My” software"
 - "Engaging with new contributors"
 - "Group practices"
     * Leadership
