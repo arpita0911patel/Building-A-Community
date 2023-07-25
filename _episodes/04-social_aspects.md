@@ -15,10 +15,10 @@ keypoints:
 ### Attitude: “Our” vs. “My” software
 ### Engaging with new contributors
 ### Group practices
-    - Leadership
-    - Decision-making style
-      - Egalitarian vs. acknowledged leader
-      - How much autonomy does an individual developer have?
-    - Time commitments to the project
+- Leadership
+- Decision-making style
+  - Egalitarian vs. acknowledged leader
+  - How much autonomy does an individual developer have?
+- Time commitments to the project
 
 {% include links.md %}
