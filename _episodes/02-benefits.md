@@ -1,5 +1,5 @@
 ---
-title: "Benefits of working collaboratively"
+title: "Benefits"
 teaching: 0
 exercises: 0
 questions:
