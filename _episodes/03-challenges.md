@@ -11,16 +11,16 @@ keypoints:
 - "Egos can be a significant problem.  Strive to be an egoless programmer."
 ---
 ### Logistics
-    - Location
-    - Time zone
+- Location
+- Time zone
 
 ### Decision-making
-    - Standard practices
-    - Designs
+- Standard practices
+- Designs
 
 ### Communication and coordination
-    - Who works on what
-    - Status
+- Who works on what
+- Status
 
 ### Egos (personal factors)
 - The benefits of collaborative construction are greatly affected by the egos, or humility, of the participants
