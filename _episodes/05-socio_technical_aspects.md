@@ -1,5 +1,5 @@
 ---
-title: "Socio-Technical Aspects"
+title: "Socio Technical Aspects"
 teaching: 0
 exercises: 0
 questions:
@@ -11,7 +11,7 @@ keypoints:
 - "Remote Collaborations"
     - "Meeting scheduling"
     - "Need for more explicit communication"
-    - "Feeling \“part of the team\”"
+    - "Feeling “part of the team”"
         - "Getting to know each other"
 - "Modes of communication"
     - "Common terminology"
